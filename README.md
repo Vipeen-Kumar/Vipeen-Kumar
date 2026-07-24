@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Vipeen Kumar
 
-🎓 3rd Year Electronics Engineering Student (Minor in Data Science)
+🎓 4th Year Electronics Engineering Student (Minor in Data Science)
 💻 Passionate Software Developer | Problem Solver | Open Source Contributor
 🚀 I enjoy building real-world projects and solving challenging problems
 
@@ -17,9 +17,9 @@
 
 ## 🏆 Achievements
 
-* 🏅 Ranked in **Top 10% on LeetCode**
+* 🏅 Ranked in **Top 8% on LeetCode**
 * 🚀 Selected in **Top 1500 - The Big Code Challenge (Google India)**
-* 📊 Solved **450+ DSA problems**
+* 📊 Solved **600+ DSA problems**
 
 ---
 
