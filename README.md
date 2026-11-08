@@ -81,6 +81,7 @@ interactions.
 * 🔗 [https://github.com/learning-unlimited/ESP-Website](https://github.com/learning-unlimited/ESP-Website)
 * 🔗 [https://github.com/stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
 * 🔗 [https://github.com/freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+* 🔗 [https://github.com/GreedyBear-Project/GreedyBear](https://github.com/GreedyBear-Project/GreedyBear)
 
 ---
 
