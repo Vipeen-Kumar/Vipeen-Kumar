@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Vipeen Kumar
 
 🎓 4th Year Electronics Engineering Student (Minor in Data Science)
+📊 600+ problem solved in leetcode
 💻 Passionate Software Developer | Problem Solver | Open Source Contributor
 🚀 I enjoy building real-world projects and solving challenging problems
 
@@ -27,6 +28,8 @@
 
 ### 🔹 AI Code Editor (Online VS Code-like)
 
+Live link: [Link](https://codebox-indol.vercel.app/)
+
 🔗 [https://github.com/Vipeen-Kumar/codebox](https://github.com/Vipeen-Kumar/codebox)
 
 * Browser-based coding environment
@@ -35,12 +38,16 @@
 
 ### 🔹 Movie Explorer
 
+Live link: [Link](https://vipeen-kumar.github.io/MovieExplorer/)
+
 🔗 [https://github.com/Vipeen-Kumar/MovieExplorer](https://github.com/Vipeen-Kumar/MovieExplorer)
 
 * Discover movies & TV shows
 * Clean UI with API integration
 
 ### 🔹 PR Review Agent
+
+Live link: Not live yet
 
 🔗 [https://github.com/Vipeen-Kumar/pr-review-agent](https://github.com/Vipeen-Kumar/pr-review-agent)
 
@@ -49,11 +56,24 @@
 
 ### 🔹 Loan Eligibility Project
 
+Live link: [Link](https://loan-eligibility-predictor-ml.streamlit.app/)
+
 🔗 [https://github.com/Vipeen-Kumar/LOAN-ELIGIBILITY-PROJECT](https://github.com/Vipeen-Kumar/LOAN-ELIGIBILITY-PROJECT)
 
 * ML-based loan approval prediction
 * Data preprocessing & model building
 
+
+### 🔹 Portfolio Website
+
+Live link: [Link](https://vipeen-kumar.github.io/aniport/)
+
+🔗 [https://github.com/Vipeen-Kumar/aniport](https://github.com/Vipeen-Kumar/aniport)
+
+* Built a performance-optimized React.js portfolio using modern component architecture and smooth UI
+interactions.
+* Engineered efficient interaction logic using optimized React hooks to minimize re-renders.
+* Integrated EmailJS API for serverless contact form handling and asynchronous communication
 ---
 
 ## 🌍 Open Source Contributions
